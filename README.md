@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi, I’m Calvin. 
+I’m currently a 3rd year student of Computer Science at Strathmore University, set to graduate in 2024. 
+I am passionate about programming and love solving challenges.
 
-<!--
-**calvinsendawula/calvinsendawula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have experience in the following:
+- Internet Application Programming with Laravel framework, PHP, HTML5, CSS, Bootstrap 5, and JavaScript
+- Procedural and Object Oriented programming with Java, JavaFX and PHP
+- System Analysis and Design
+- Software Engineering and UI/UX design with figma
+- Data Structures and Algorithms in Java
+- Data Warehousing and Database Management using MySQL
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can reach me via the link below. It's a link to my LinkedIn profile.
+https://www.linkedin.com/in/ceejay188/
