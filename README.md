@@ -10,5 +10,6 @@ I have experience in the following:
 - Data Structures and Algorithms in Java
 - Data Warehousing and Database Management using MySQL
 
-You can reach me via the link below. It's a link to my LinkedIn profile.
+You can reach me via this link ->
 https://www.linkedin.com/in/ceejay188/
+It's a link to my LinkedIn profile.
