@@ -6,7 +6,7 @@ I have experience in the following:
 - Internet Application Programming with Laravel framework, PHP, HTML5, CSS, Bootstrap 5, and JavaScript
 - Procedural and Object Oriented programming with Java, JavaFX and PHP
 - System Analysis and Design
-- Software Engineering and UI/UX design with figma
+- Software Engineering and UI/UX design with Figma and AdobeXD
 - Data Structures and Algorithms in Java
 - Data Warehousing and Database Management using MySQL
 
