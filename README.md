@@ -21,12 +21,6 @@ I have experience in the following:<br><br>Internet Application Programming with
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=calvinsendawula&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### I love Memes
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=calvinsendawula&icon=2&color=1)](https://visitcount.itsvg.in)
 
