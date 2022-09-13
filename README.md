@@ -2,8 +2,7 @@
 <h3 align="center">I am passionate about programming and love solving challenges.</h3>
 <h4 align="center">I’m currently a 3rd year student of Computer Science at Strathmore University, set to graduate in 2024.</h4>
 
-# 💫 About Me:
-I am passionate about programming and love solving challenges.<br>I’m currently a 3rd year student of Computer Science at Strathmore University, set to graduate in 2024.<br>I have experience in the following:<br><br>Internet Application Programming with Laravel framework, PHP, HTML5, CSS, Bootstrap 5, and JavaScript<br><br>Procedural and Object Oriented programming with Java, JavaFX, C++ and PHP<br><br>System Analysis and Design<br><br>Software Engineering and UI/UX design with Figma and AdobeXD<br><br>Data Structures and Algorithms in Java<br><br>Data Warehousing, Data Visualization, and Database Management using MySQL, PhpMyAdmin, Python, Talend, and Tableau<br><br>👨‍💻 This link is to my portfolio website -> https://calvin-sendawula-portfolio-website.webflow.io/<br><br>📫 How to reach me calvin.sendawula@strathmore.edu
+I have experience in the following:<br><br>Internet Application Programming with Laravel framework, PHP, HTML5, CSS, Bootstrap 5, and JavaScript<br><br>Procedural and Object Oriented programming with Java, JavaFX, C++ and PHP<br><br>System Analysis and Design<br><br>Software Engineering and UI/UX design with Figma and AdobeXD<br><br>Data Structures and Algorithms in Java<br><br>Data Warehousing, Data Visualization, and Database Management using MySQL, PhpMyAdmin, Python, Talend, and Tableau<br><br>👨‍💻 This link is to my portfolio website -> https://calvin-sendawula-portfolio-website.webflow.io/<br><br>📫 How to reach me calvin.sendawula@strathmore.edu
 
 
 ## 🌐 Socials:
