@@ -1,6 +1,6 @@
-Hi, I’m Calvin. 
-I’m currently a 3rd year student of Computer Science at Strathmore University, set to graduate in 2024. 
-I am passionate about programming and love solving challenges.
+<h1 align="center">Hi 👋, I'm Calvin</h1>
+<h3 align="center">I am passionate about programming and love solving challenges.</h3>
+<h4 align="center">I’m currently a 3rd year student of Computer Science at Strathmore University, set to graduate in 2024.</h4>
 
 I have experience in the following:
 - Internet Application Programming with Laravel framework, PHP, HTML5, CSS, Bootstrap 5, and JavaScript
@@ -10,16 +10,7 @@ I have experience in the following:
 - Data Structures and Algorithms in Java
 - Data Warehousing, Data Visualization, and Database Management using MySQL, PhpMyAdmin, Python, Talend, and Tableau
 
-This link is to my portfolio website -> https://calvin-sendawula-portfolio-website.webflow.io/
-
-You can reach me via this link ->
-https://www.linkedin.com/in/ceejay188/
-It's a link to my LinkedIn profile.
-
-<h1 align="center">Hi 👋, I'm Calvin</h1>
-<h3 align="center">A passionate Computer Science student</h3>
-
-- 👨‍💻 All of my projects are available at [https://calvin-sendawula-portfolio-website.webflow.io/](https://calvin-sendawula-portfolio-website.webflow.io/)
+- 👨‍💻 This link is to my portfolio website -> [https://calvin-sendawula-portfolio-website.webflow.io/](https://calvin-sendawula-portfolio-website.webflow.io/)
 
 - 📫 How to reach me **calvin.sendawula@strathmore.edu**
 
