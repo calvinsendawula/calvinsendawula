@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Calvin</h1>
 <h3 align="center">I am passionate about programming and love solving challenges.</h3>
-<h4 align="center">I’m currently a 4th year student of Computer Science at Strathmore University, set to graduate in 2024.</h4>
+<h4 align="center">I’m currently a 4th year finalist of Computer Science at Strathmore University, set to graduate in 2024.</h4>
 
-I have experience in the following:<br>•	Internet Application Programming with Laravel framework, PHP, HTML5, CSS, Bootstrap 5, and JavaScript<br>•	Procedural and Object Oriented programming with Java, JavaFX, C++ and PHP<br>•	System Analysis and Design, software development life cycle<br>•	Software Engineering and UI/UX design with Figma and AdobeXD<br>•	Data Structures and Algorithms in Java & Python<br>•	ETL, Data Warehousing, Data Visualization, and Database Management using MySQL, PhpMyAdmin, Python, Talend, and Tableau<br>•	Experience in designing and training of artificial intelligence and predictive models<br><br>👨‍💻 This link is to my portfolio website -> https://calvin-sendawula-portfolio-website.webflow.io/<br><br>📫 How to reach me calvin.sendawula@strathmore.edu
+I have experience in the following:<br>•	Internet Application Programming with Laravel framework, PHP, HTML5, CSS, Bootstrap 5, and JavaScript<br>•	Procedural and Object Oriented programming with Java, JavaFX, C++ and PHP<br>•	System Analysis and Design, software development life cycle<br>•	Software Engineering and UI/UX design with Figma and AdobeXD<br>•	Data Structures and Algorithms in Java & Python<br>•	ETL, Data Warehousing, Data Visualization, and Database Management using MySQL, PhpMyAdmin, Python, Talend, and Tableau<br>•	Experience in designing and training of artificial intelligence and predictive models<br><br>📫 How to reach me calvinsendawula188@gmail.com
 
 My LinkedIn Profile: https://www.linkedin.com/in/ceejay188/
 
