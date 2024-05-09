@@ -6,7 +6,9 @@ I am a dynamic professional with a deep passion for data analytics, data science
 - Data Science and Model Development: Skilled in the entire data science pipeline from data cleaning and feature engineering to model development and validation. I create predictive models and machine learning algorithms tailored to the specific nuances of each project, enhancing predictive accuracy and operational efficiency.
 - Data Analytics: Proficient in using statistical methods and data analysis techniques to dissect data, identify trends, and report findings that guide strategic decisions. Experienced in transforming raw data into clear, informative visualizations and dashboards using tools like Tableau and Power BI.
 
-My approach combines meticulous data analysis with innovative algorithm application to solve real-world problems effectively. I thrive in environments that challenge my analytical and technological skills and enjoy collaborating on projects that leverage data to drive business success.<br><br>📫 How to reach me calvinsendawula188@gmail.com
+My approach combines meticulous data analysis with innovative algorithm application to solve real-world problems effectively. I thrive in environments that challenge my analytical and technological skills and enjoy collaborating on projects that leverage data to drive business success.
+
+📫 Reach me through email at calvinsendawula188@gmail.com
 
 My LinkedIn Profile: https://www.linkedin.com/in/ceejay188/
 
