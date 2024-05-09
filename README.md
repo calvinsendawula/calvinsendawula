@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Calvin</h1>
-<h3 align="center">I am passionate about programming and love solving challenges.</h3>
-<h4 align="center">I’m currently a 4th year finalist of Computer Science at Strathmore University, set to graduate in 2024.</h4>
 
-I have experience in the following:<br>•	Internet Application Programming with Laravel framework, PHP, HTML5, CSS, Bootstrap 5, and JavaScript<br>•	Procedural and Object Oriented programming with Java, JavaFX, C++ and PHP<br>•	System Analysis and Design, software development life cycle<br>•	Software Engineering and UI/UX design with Figma and AdobeXD<br>•	Data Structures and Algorithms in Java & Python<br>•	ETL, Data Warehousing, Data Visualization, and Database Management using MySQL, PhpMyAdmin, Python, Talend, and Tableau<br>•	Experience in designing and training of artificial intelligence and predictive models<br><br>📫 How to reach me calvinsendawula188@gmail.com
+I am a dynamic professional with a deep passion for data analytics, data science, and machine learning. My interdisciplinary expertise allows me to drive innovation and efficiency across various business contexts. My education in computer science, enriched by practical, industry-focused experiences, equips me to handle complex datasets and extract actionable insights. Here’s a detailed look at my core competencies:
+
+- Machine Learning Deployment: Adept at deploying robust machine learning models into production environments, ensuring they deliver continuous value through real-time data processing and analysis. Proficient with cloud platforms such as AWS and Azure for scalable, efficient application hosting.
+- Data Science and Model Development: Skilled in the entire data science pipeline from data cleaning and feature engineering to model development and validation. I create predictive models and machine learning algorithms tailored to the specific nuances of each project, enhancing predictive accuracy and operational efficiency.
+- Data Analytics: Proficient in using statistical methods and data analysis techniques to dissect data, identify trends, and report findings that guide strategic decisions. Experienced in transforming raw data into clear, informative visualizations and dashboards using tools like Tableau and Power BI.
+
+My approach combines meticulous data analysis with innovative algorithm application to solve real-world problems effectively. I thrive in environments that challenge my analytical and technological skills and enjoy collaborating on projects that leverage data to drive business success.<br><br>📫 How to reach me calvinsendawula188@gmail.com
 
 My LinkedIn Profile: https://www.linkedin.com/in/ceejay188/
 
