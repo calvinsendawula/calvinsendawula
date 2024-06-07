@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Calvin</h1>
 
-I am a dynamic professional with a deep passion for data analytics, data science, and machine learning. My interdisciplinary expertise allows me to drive innovation and efficiency across various business contexts. My education in computer science, enriched by practical, industry-focused experiences, equips me to handle complex datasets and extract actionable insights. Here’s a detailed look at my core competencies:
+I am a dynamic professional with a deep passion for data engineering, data science, and machine learning. My interdisciplinary expertise allows me to drive innovation and efficiency across various business contexts. My education in computer science, enriched by practical, industry-focused experiences, equips me to handle complex datasets and extract actionable insights. Here’s a detailed look at my core competencies:
 
 - Machine Learning Deployment: Adept at deploying robust machine learning models into production environments, ensuring they deliver continuous value through real-time data processing and analysis. Proficient with cloud platforms such as AWS and Azure for scalable, efficient application hosting.
 - Data Science and Model Development: Skilled in the entire data science pipeline from data cleaning and feature engineering to model development and validation. I create predictive models and machine learning algorithms tailored to the specific nuances of each project, enhancing predictive accuracy and operational efficiency.
-- Data Analytics: Proficient in using statistical methods and data analysis techniques to dissect data, identify trends, and report findings that guide strategic decisions. Experienced in transforming raw data into clear, informative visualizations and dashboards using tools like Tableau and Power BI.
+- Data Engineering: Proficient in using ETL processes and data pipeline development to manage and transform data. Experienced in integrating diverse data sources and optimizing data workflows to support advanced analytics and machine learning applications.
 
-My approach combines meticulous data analysis with innovative algorithm application to solve real-world problems effectively. I thrive in environments that challenge my analytical and technological skills and enjoy collaborating on projects that leverage data to drive business success.
+My approach combines meticulous data engineering with innovative algorithm application to solve real-world problems effectively. I thrive in environments that challenge my analytical and technological skills and enjoy collaborating on projects that leverage data to drive business success.
 
 📫 Reach me through email at calvinsendawula188@gmail.com
 
