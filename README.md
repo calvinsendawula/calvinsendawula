@@ -27,11 +27,6 @@ A document-processing platform for extracting information from PDFs, reviewing r
 
 At APRI, I led the architecture and migration from full-rebuild GraphRAG indexing to an incremental LightRAG pipeline. The work included document and chunk tracking, an administration dashboard and versioned search outputs, while keeping the existing search available during the migration.
 
-## Public code
-
-- [Qwen Payslip Processor](https://github.com/calvinsendawula/qwen-payslip-processor): a Python package for extracting information from German payslips with a vision-language model, configurable document regions and GPU support.
-- [RAG orchestration comparison](https://github.com/calvinsendawula/orchestration-tools-comparison): implementations of a shared document-retrieval pipeline across Airflow, Dagster, Flyte, Kubeflow and Mage.
-
 ## Tools I work with
 
 **Backend and APIs:** Python, FastAPI, Django, Flask, REST APIs  
